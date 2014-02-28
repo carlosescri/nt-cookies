@@ -1,0 +1,73 @@
+# Copyright (C) 2014 Cookies Policy Message (nt)
+# This file is distributed under the same license as the Cookies Policy Message (nt) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookies Policy Message (nt) 1.0\n"
+"Report-Msgid-Bugs-To: http://nettoys.es\n"
+"POT-Creation-Date: 2014-02-27 23:55:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-02-28 01:10+0100\n"
+"Last-Translator: Carlos Escribano Rey <carlos@markhaus.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.6.4\n"
+
+#: nt-cookies-options.php:10
+msgid "Options saved."
+msgstr "Las opciones se guardaron correctamente."
+
+#: nt-cookies-options.php:20
+msgid "Cookie Policy Message Options"
+msgstr "Opciones del mensaje de política de cookies"
+
+#: nt-cookies-options.php:25
+msgid "Configuration"
+msgstr "Configuración"
+
+#: nt-cookies-options.php:31
+msgid "Message Warning of Cookies"
+msgstr "Mensaje de advertencia"
+
+#: nt-cookies-options.php:35
+msgid "This site uses cookies..."
+msgstr "Esta página utiliza cookies..."
+
+#: nt-cookies-options.php:37
+msgid "This text will be inserted inside a &lt;p&gt; tag."
+msgstr "Este texto se insertará dentro de una etiqueta &lt;p&gt;."
+
+#: nt-cookies-options.php:42
+msgid "Confirm Button Text"
+msgstr "Texto del botón"
+
+#: nt-cookies-options.php:46 nt-cookies.php:49
+msgid "Agree"
+msgstr "Entendido"
+
+#: nt-cookies-options.php:54
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#. Plugin Name of the plugin/theme
+msgid "Cookies Policy Message (nt)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/carlosescri/nt-cookies"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Wordpress plugin to display a cookies policy message in your blog."
+msgstr ""
+"Plugin de Wordpress para mostrar una advertencia de uso de cookies en tu "
+"blog."
+
+#. Author of the plugin/theme
+msgid "Carlos Escribano"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://nettoys.es"
+msgstr ""
